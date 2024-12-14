@@ -1,3 +1,4 @@
+![Optic Signals Logo](files/logo.webp)
 # OPTIC JS
  
 **OPTIC JS** is an open-source analytics tracking library designed to empower users and companies by putting control of their data back into their hands. Unlike traditional analytics platforms that rely on third-party data collection, this library allows you to track user interactions and behaviors on your website while maintaining full ownership of your data.
